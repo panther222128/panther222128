@@ -6,19 +6,19 @@
 
 ## Projects in Codesquad
 
-### ToDoList
+1. ToDoList
 
 <https://github.com/ChoiGiSung/todo-list>
 
 Related: <https://velog.io/@panther222128/Drag-and-Drop-Issue>
 
-### SideDish
+2. SideDish
 
 <https://github.com/panther222128/sidedish/wiki/회고>
 
 Related: <https://velog.io/@panther222128/Alamofire-Advanced-Usage>
 
-### Baseball
+3. Baseball
 
 <https://github.com/ghis22130/baseball>
 
