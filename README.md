@@ -1,9 +1,9 @@
-### Languages
+## Languages
 
 - Swift
 - R
 - Python
 
-### Blog
+## Blog
 
 <https://velog.io/@panther222128>
