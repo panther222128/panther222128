@@ -8,15 +8,11 @@
 
 **ToDoList**
 
-<https://github.com/ChoiGiSung/todo-list>
-
-Related: <https://velog.io/@panther222128/Drag-and-Drop-Issue>
+Link: <https://github.com/ChoiGiSung/todo-list><br>Related: <https://velog.io/@panther222128/Drag-and-Drop-Issue>
 
 **SideDish**
 
-<https://github.com/panther222128/sidedish/wiki/회고>
-
-Related: <https://velog.io/@panther222128/Alamofire-Advanced-Usage>
+<https://github.com/panther222128/sidedish/wiki/회고><br>Related: <https://velog.io/@panther222128/Alamofire-Advanced-Usage>
 
 **Baseball**
 
