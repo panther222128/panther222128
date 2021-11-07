@@ -16,17 +16,17 @@
 
 ## Projects in Codesquad
 
-#### - SideDishApp
+#### - BaseballApp
 
-<https://github.com/panther222128/sidedish/wiki/회고>
+<https://github.com/ghis22130/baseball>
 
 #### - ToDoListApp
 
 <https://github.com/ChoiGiSung/todo-list>
 
-#### - BaseballApp
+#### - SideDishApp
 
-<https://github.com/ghis22130/baseball>
+<https://github.com/panther222128/sidedish/wiki/회고>
 
 ## Blog
 
