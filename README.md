@@ -24,10 +24,6 @@
 
 <https://github.com/ChoiGiSung/todo-list>
 
-#### - SideDishApp
-
-<https://github.com/panther222128/sidedish/wiki/회고>
-
 ## Blog
 
 <https://velog.io/@panther222128>
