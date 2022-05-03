@@ -6,6 +6,10 @@
 
 ## Personal Projects
 
+#### CoffeeNote (Distributed)
+
+<https://github.com/panther222128/MyCoffeeRecipe>
+
 #### KPGG App
 
 <https://github.com/panther222128/KPGG>
