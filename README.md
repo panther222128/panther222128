@@ -1,14 +1,18 @@
-## Languages
+## Language
 
 - Swift
-- R
-- Python
 
 ## Personal Projects
 
-#### CoffeeNote (Distributed)
+#### Unsplash - MVVM-C with Moya, Realm, SnapKit(no storyboard)
 
-<https://github.com/panther222128/MyCoffeeRecipe>
+<https://github.com/panther222128/UnsplashMVVMC>
+
+#### Weather
+
+2022.05.29 - MetaWeather API 404 Page not found
+
+<https://github.com/panther222128/Weather>
 
 #### KPGG App
 
@@ -30,4 +34,5 @@
 
 ## Blog
 
+<https://velog.io/@horus222128>
 <https://velog.io/@panther222128>
