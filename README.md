@@ -10,7 +10,7 @@
 
 #### Weather
 
-2022.05.29 - MetaWeather API 404 Page not found
+2022.05.29 - MetaWeather API -> 404 Page not found
 
 <https://github.com/panther222128/Weather>
 
