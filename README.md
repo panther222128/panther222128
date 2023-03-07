@@ -4,6 +4,10 @@
 
 ## Personal Projects
 
+#### Object Separation with AVFoundation: OOP Practice (ing)
+
+<https://github.com/panther222128/ObjectSeparation>
+
 #### iTunes Music Video API App (MVVM-C with Combine, Repository, Dependency Injection, Coordinator, and more abstract Endpoint)
 
 <https://github.com/panther222128/CombineWithUIKit-MVVMC>
