@@ -4,7 +4,7 @@
 
 ## Personal Projects
 
-#### SwiftUI View Practice
+#### SwiftUI View Programming Practice
 
 <https://github.com/panther222128/MockTable>
 
