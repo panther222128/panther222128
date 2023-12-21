@@ -4,7 +4,11 @@
 
 ## Personal Projects
 
-#### Object Separation with AVFoundation: OOP Practice (ing)
+#### SwiftUI View Practice
+
+<https://github.com/panther222128/MockTable>
+
+#### Object Separation with AVFoundation: OOP Practice
 
 <https://github.com/panther222128/ObjectSeparation>
 
