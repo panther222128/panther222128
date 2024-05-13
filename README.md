@@ -4,6 +4,10 @@
 
 ## Personal Projects
 
+#### Omakase Review App
+
+<https://github.com/panther222128/Reviewer>
+
 #### SwiftUI View Programming Practice
 
 <https://github.com/panther222128/MockTable>
